@@ -1,0 +1,9 @@
+H:\Escritorio\TP1\TP1.BACCARO.LUCAS\Entidades\bin\Debug\netcoreapp3.1\Entidades.deps.json
+H:\Escritorio\TP1\TP1.BACCARO.LUCAS\Entidades\bin\Debug\netcoreapp3.1\Entidades.dll
+H:\Escritorio\TP1\TP1.BACCARO.LUCAS\Entidades\bin\Debug\netcoreapp3.1\Entidades.pdb
+H:\Escritorio\TP1\TP1.BACCARO.LUCAS\Entidades\obj\Debug\netcoreapp3.1\Entidades.csprojAssemblyReference.cache
+H:\Escritorio\TP1\TP1.BACCARO.LUCAS\Entidades\obj\Debug\netcoreapp3.1\Entidades.AssemblyInfoInputs.cache
+H:\Escritorio\TP1\TP1.BACCARO.LUCAS\Entidades\obj\Debug\netcoreapp3.1\Entidades.AssemblyInfo.cs
+H:\Escritorio\TP1\TP1.BACCARO.LUCAS\Entidades\obj\Debug\netcoreapp3.1\Entidades.csproj.CoreCompileInputs.cache
+H:\Escritorio\TP1\TP1.BACCARO.LUCAS\Entidades\obj\Debug\netcoreapp3.1\Entidades.dll
+H:\Escritorio\TP1\TP1.BACCARO.LUCAS\Entidades\obj\Debug\netcoreapp3.1\Entidades.pdb
