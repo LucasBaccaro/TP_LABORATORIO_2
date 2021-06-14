@@ -1,0 +1,12 @@
+H:\Escritorio\Baccaro.Lucas.TP3\Entidades\bin\Debug\Entidades.dll
+H:\Escritorio\Baccaro.Lucas.TP3\Entidades\bin\Debug\Entidades.pdb
+H:\Escritorio\Baccaro.Lucas.TP3\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+H:\Escritorio\Baccaro.Lucas.TP3\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+H:\Escritorio\Baccaro.Lucas.TP3\Entidades\obj\Debug\Entidades.dll
+H:\Escritorio\Baccaro.Lucas.TP3\Entidades\obj\Debug\Entidades.pdb
+C:\Users\lucas\OneDrive\Escritorio\Baccaro.Lucas.TP3\Entidades\bin\Debug\Entidades.dll
+C:\Users\lucas\OneDrive\Escritorio\Baccaro.Lucas.TP3\Entidades\bin\Debug\Entidades.pdb
+C:\Users\lucas\OneDrive\Escritorio\Baccaro.Lucas.TP3\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\lucas\OneDrive\Escritorio\Baccaro.Lucas.TP3\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\lucas\OneDrive\Escritorio\Baccaro.Lucas.TP3\Entidades\obj\Debug\Entidades.dll
+C:\Users\lucas\OneDrive\Escritorio\Baccaro.Lucas.TP3\Entidades\obj\Debug\Entidades.pdb

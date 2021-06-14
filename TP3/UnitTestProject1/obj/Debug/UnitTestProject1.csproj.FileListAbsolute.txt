@@ -1,0 +1,17 @@
+H:\Escritorio\Baccaro.Lucas.TP3\UnitTestProject1\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+H:\Escritorio\Baccaro.Lucas.TP3\UnitTestProject1\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+H:\Escritorio\Baccaro.Lucas.TP3\UnitTestProject1\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+H:\Escritorio\Baccaro.Lucas.TP3\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+H:\Escritorio\Baccaro.Lucas.TP3\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+H:\Escritorio\Baccaro.Lucas.TP3\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+H:\Escritorio\Baccaro.Lucas.TP3\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+H:\Escritorio\Baccaro.Lucas.TP3\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+H:\Escritorio\Baccaro.Lucas.TP3\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+H:\Escritorio\Baccaro.Lucas.TP3\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+H:\Escritorio\Baccaro.Lucas.TP3\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+H:\Escritorio\Baccaro.Lucas.TP3\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+H:\Escritorio\Baccaro.Lucas.TP3\UnitTestProject1\obj\Debug\UnitTestProject1.csprojAssemblyReference.cache
+H:\Escritorio\Baccaro.Lucas.TP3\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+H:\Escritorio\Baccaro.Lucas.TP3\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+H:\Escritorio\Baccaro.Lucas.TP3\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+H:\Escritorio\Baccaro.Lucas.TP3\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

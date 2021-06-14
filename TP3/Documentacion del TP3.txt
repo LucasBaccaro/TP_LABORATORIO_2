@@ -1,0 +1,24 @@
+***************
+**Excepciones** Las utilizo en el metodo Guardar-Cargar-Construir Objeto-Agregar y Remover
+***************
+
+
+******************
+**Test Unitarios** En los test, hago un proyecto de prueba unitaria, que contiene dos clases, una prueba el agregar/remover y la igualdad en objetos por codigo
+******************
+
+
+*******************
+**Tipos Genericos** Utilizo una lista generica llamada deposito,con cierta capacidad en la cual permite generar un arrayList de "Articulos"
+*******************
+
+
+**************
+**Interfaces** La clase hija Pantalones tiene la interfaz IDiametro, la cual calcula el diametro para la creacion de dicho Pantalon, Cualquier clase creada a 
+************** futuro, que necesite calcular diametro,podra tener la interfaz IDiametro
+
+
+*****************
+**Serializacion** Guardo Archivos, con diferentes nombres de CODIGO y con el respectivo dia en un archivo XML, para ir documentando todo lo que el usuario desee a medida que guarda.
+***************** La carga de archivos la hice con un OpenFileDialog, para que el usuario cargue en dicho programa, el archivo que el desee.
+

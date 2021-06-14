@@ -1,0 +1,1 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DepositoOfArticulo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"><ListaDeposito><Articulo xsi:type="Remeras"><Color>feg</Color><Codigo>fewf</Codigo><TipoMaterial>Algodon</TipoMaterial><Talle>s</Talle></Articulo></ListaDeposito><Capacidad>100</Capacidad></DepositoOfArticulo>
